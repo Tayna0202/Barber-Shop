@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Portifólio Tayna Simões atual 👩🏻‍💻</h1>
+<h1 align="center" style="font-weight: bold;">Barber Shop 🪒💈</h1>
 
 <div align="center">
     🔗 ACESSE O PROJETO: <a target="_blank" href="https://barber-shop-jet-two.vercel.app/">Link</a>
